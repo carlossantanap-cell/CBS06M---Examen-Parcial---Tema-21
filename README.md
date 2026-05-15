@@ -26,4 +26,4 @@ LightGBM
 ## Dataset utilizado
 Edge-IIoTset
 
-https://www.kaggle.com/datasets/sibasishpradhan/edge-iiotset-dataset
+https://www.kaggle.com/datasets/sibasispradhan/edge-iiotset-dataset
