@@ -1,0 +1,5 @@
+Modelo,Accuracy,Precision,Recall,F1-Score,Latencia_ms,RAM_Proceso_Colab_MB,Tamaño_KB,F1_vs_Base,Lat_vs_Base,Tam_vs_Base
+Baseline,0.926,0.9357,0.926,0.9282,117.22,599.33,7230.03,0.0,0.0,0.0
+Pruning,0.9267,0.9366,0.9267,0.929,94.57,581.09,6984.43,0.09,-19.32,-3.4
+Compresión ligera,0.926,0.9357,0.926,0.9282,108.71,609.25,2922.04,0.0,-7.26,-59.58
+Pruning + Compresión ligera,0.9267,0.9366,0.9267,0.929,89.23,609.31,2840.76,0.09,-23.88,-60.71
